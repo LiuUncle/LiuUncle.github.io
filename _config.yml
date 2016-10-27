@@ -1,6 +1,3 @@
-# # # # # # # # # # # # #
-#   K i k o - p l u s   #
-# # # # # # # # # # # # #
 
 # Basic
 name:               "柳大叔的个人网站"
@@ -27,7 +24,7 @@ disqus:
 
 # URL
 #url:                "https://AWEEKJ.github.io" # the base hostname & protocol for your site
-url:                "http://localhost:4000" # use this url when develop
+url:                "http://pmyangliu.com" # use this url when develop
 baseurl:            "" # the subpath of your site, e.g. /blog
 
 
@@ -53,7 +50,7 @@ nav:
   - name:           "Tags"
     url:            "/tags"
   - name:           "Github"
-    url:            "https://github.com/AWEEKJ/Kiko-plus"
+    url:            "https://github.com/LiuUncle"
 
 
 
