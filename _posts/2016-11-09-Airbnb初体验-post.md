@@ -7,7 +7,7 @@ tags: [Travel, Note]
 comments: true
 share: true
 ---
-![image](/images/Scenery/Dalian/WechatIMG40.png)
+![image](/images/Scenery/Dalian/WechatIMG40.jpeg)
 
 对Airbnb的期待，源自苹果姐姐的365天民宿计划。在她公众号的分享里，看到了形形色色的风土人情，心生向往。于是去年10月就早早的办好护照，计划了许多次出国旅行，都因为各种事情耽误掉。真的没想过自己第一次用Airbnb会是在国内。而且来的那么偶然，在早餐的间隙就订下了房间。
 
@@ -20,17 +20,17 @@ share: true
 
 早起看清晨的日出，感受大连的海风
 
-![image](/images/Scenery/Dalian/IMG_3178.png)
+![image](/images/Scenery/Dalian/IMG_3178.jpg)
 
 
 在夜里看平静的海面
 
-![image](/images/Scenery/Dalian/IMG_3182.png)
+![image](/images/Scenery/Dalian/IMG_3182.jpg)
 
 
 跟3年未见的老班长包场喝咖啡
 
-![image](/images/Scenery/Dalian/IMG_3190.png)
+![image](/images/Scenery/Dalian/IMG_3190.jpg)
 
 
 ## 房间
@@ -39,39 +39,39 @@ share: true
 
 在火车上早早的给Mavis打了电话，约好了见面的车站和大概的时间。这种下了车就有人接的感觉，很温暖。等再打电话时，Mavis已经早早的在马路对面等我了。简单的寒暄，也是彼此了解的过程。一路上和Mavis聊了许多对旅行，对生活的看法。
 
-![image](/images/Scenery/Dalian/WechatIMG44.png)
+![image](/images/Scenery/Dalian/WechatIMG44.jpeg)
 
 进了小区，周边都很干净，天空也很蓝。开启房门的瞬间，有种很亲切、自然的感觉。
 
 一放下行李，Mavis就给我泡了水果茶，切了一大块柚子～
 
-![image](/images/Scenery/Dalian/IMG_3166.png)
+![image](/images/Scenery/Dalian/IMG_3166.jpg)
 
 
 最喜欢客厅的那面墙，上面挂着Mavis的许多旅行回忆。
 
-![image](/images/Scenery/Dalian/WechatIMG36.png)
+![image](/images/Scenery/Dalian/WechatIMG36.jpeg)
 
 
 卧室里的小鲸鱼、抱枕和各种小摆件，都是Mavis的学生亲手做的。
 
-![image](/images/Scenery/Dalian/WechatIMG43.png)
+![image](/images/Scenery/Dalian/WechatIMG43.jpeg)
 
 
 慵懒的午后，还可以座在摇篮里面安静的看风景。
 
-![image](/images/Scenery/Dalian/WechatIMG43.png)
+![image](/images/Scenery/Dalian/WechatIMG43.jpeg)
 
 
 喜欢绿色和黑白格子带给人的小清新，在这里写文章真的是很惬意的一件事。
 
-![image](/images/Scenery/Dalian/WechatIMG33.png)
+![image](/images/Scenery/Dalian/WechatIMG33.jpeg)
 
 
 
 ## 读书会
 
-![image](/images/Scenery/Dalian/IMG_3187.png)
+![image](/images/Scenery/Dalian/IMG_3187.jpg)
 
 我觉得旅行，不单要有风景，最好还要有故事。幸运的是这次都赶上了。
 
