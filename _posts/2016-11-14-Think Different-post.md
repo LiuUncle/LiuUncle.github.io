@@ -9,7 +9,7 @@ tags: [Product ]
 comments: true
 share: true
 ---
-![image](/images/Advertising/Thinkdifferent.png)
+![image](/images/Advertising/Thinkdifferent.jpg)
 如果连相信都不曾有过，更别提去做成什么事情。
 
 许多人曾问我，为什么要做产品经理。我也同样不断的反复问自己。反复回答自己。
